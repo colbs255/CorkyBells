@@ -1,0 +1,22 @@
+.pageTitle {
+    text-align: center;
+    border-bottom: 2px solid black;
+}
+
+.place-holder {
+    height: 50px;
+}
+
+#body-root {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+footer {
+    background-color: var(--dcc_color_footer_bg);
+}
+
+footer > p {
+    text-align: center;
+    color: var(--dcc_color_footer_text);
+}

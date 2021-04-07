@@ -1,0 +1,21 @@
+/* Use `var(property-name)` in the css file */
+
+/* Colors */
+:root {
+    --dcc_color_primary: red;
+    --dcc_color_secondary: black;
+
+    --dcc_color_header_bg: green;
+    --dcc_color_header_text: red;
+
+    --dcc_color_navbar_bg: brown;
+    --dcc_color_navbar_text: white;
+
+    --dcc_color_footer_bg: green;
+    --dcc_color_footer_text: white;
+}
+
+/* Fonts */
+:root {
+    
+}
