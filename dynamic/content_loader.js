@@ -53,7 +53,7 @@ function constructParagraph(contentNode) {
 }
 
 function constructBasicImage(contentNode) {
-    return new NodeBuilder("div").classes("text-center")
+    return new NodeBuilder("div").classes("text-center", "custom-image-basic")
         .child(
             new NodeBuilder("img").classes("img-fluid")
                 .attribute("src", contentNode.content).build()

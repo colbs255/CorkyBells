@@ -1,6 +1,12 @@
 .pageTitle {
     text-align: center;
     border-bottom: 2px solid black;
+    margin-bottom: 1.2rem;
+}
+
+.custom-image-basic {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 
 .place-holder {
